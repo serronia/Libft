@@ -5,13 +5,13 @@
 /*                                                 +:+:+   +:    +:  +:+:+    */
 /*   By: jdarko <marvin@le-101.fr>                  +:+   +:    +:    +:+     */
 /*                                                 #+#   #+    #+    #+#      */
-/*   Created: 2017/11/22 22:54:56 by jdarko       #+#   ##    ##    #+#       */
-/*   Updated: 2017/11/22 22:54:56 by jdarko      ###    #+. /#+    ###.fr     */
+/*   Created: 2017/12/15 15:51:50 by jdarko       #+#   ##    ##    #+#       */
+/*   Updated: 2017/12/15 15:52:03 by jdarko      ###    #+. /#+    ###.fr     */
 /*                                                         /                  */
 /*                                                        /                   */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "includes/libft.h"
 
 void	ft_bzero(void *s, size_t n)
 {

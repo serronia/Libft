@@ -5,13 +5,13 @@
 /*                                                 +:+:+   +:    +:  +:+:+    */
 /*   By: jdarko <marvin@le-101.fr>                  +:+   +:    +:    +:+     */
 /*                                                 #+#   #+    #+    #+#      */
-/*   Created: 2017/11/22 22:55:05 by jdarko       #+#   ##    ##    #+#       */
-/*   Updated: 2017/11/22 22:55:05 by jdarko      ###    #+. /#+    ###.fr     */
+/*   Created: 2017/12/15 15:53:01 by jdarko       #+#   ##    ##    #+#       */
+/*   Updated: 2017/12/15 15:53:01 by jdarko      ###    #+. /#+    ###.fr     */
 /*                                                         /                  */
 /*                                                        /                   */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "includes/libft.h"
 
 int		ft_strnequ(char const *s1, char const *s2, size_t n)
 {

@@ -5,13 +5,13 @@
 /*                                                 +:+:+   +:    +:  +:+:+    */
 /*   By: jdarko <marvin@le-101.fr>                  +:+   +:    +:    +:+     */
 /*                                                 #+#   #+    #+    #+#      */
-/*   Created: 2017/11/22 22:55:04 by jdarko       #+#   ##    ##    #+#       */
-/*   Updated: 2017/11/22 22:55:04 by jdarko      ###    #+. /#+    ###.fr     */
+/*   Created: 2017/12/15 15:53:00 by jdarko       #+#   ##    ##    #+#       */
+/*   Updated: 2017/12/15 15:53:00 by jdarko      ###    #+. /#+    ###.fr     */
 /*                                                         /                  */
 /*                                                        /                   */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "includes/libft.h"
 
 char	*ft_strmapi(char const *s, char (*f)(unsigned int, char))
 {

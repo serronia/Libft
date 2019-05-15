@@ -5,13 +5,13 @@
 /*                                                 +:+:+   +:    +:  +:+:+    */
 /*   By: jdarko <marvin@le-101.fr>                  +:+   +:    +:    +:+     */
 /*                                                 #+#   #+    #+    #+#      */
-/*   Created: 2017/11/22 22:54:38 by jdarko       #+#   ##    ##    #+#       */
-/*   Updated: 2017/11/22 22:54:48 by jdarko      ###    #+. /#+    ###.fr     */
+/*   Created: 2017/12/15 15:51:10 by jdarko       #+#   ##    ##    #+#       */
+/*   Updated: 2017/12/15 15:51:38 by jdarko      ###    #+. /#+    ###.fr     */
 /*                                                         /                  */
 /*                                                        /                   */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "includes/libft.h"
 
 int		ft_atoi(const char *str)
 {

@@ -6,7 +6,7 @@
 #    By: jdarko <marvin@le-101.fr>                  +:+   +:    +:    +:+      #
 #                                                  #+#   #+    #+    #+#       #
 #    Created: 2017/11/22 22:56:15 by jdarko       #+#   ##    ##    #+#        #
-#    Updated: 2017/11/26 14:51:08 by jdarko      ###    #+. /#+    ###.fr      #
+#    Updated: 2019/05/15 01:14:24 by jdarko      ###    #+. /#+    ###.fr      #
 #                                                          /                   #
 #                                                         /                    #
 # **************************************************************************** #
@@ -27,9 +27,9 @@ SRC = ft_strlen.c ft_strdup.c ft_strcpy.c ft_strncpy.c ft_strcmp.c ft_strncmp.c\
 	  ft_putstr_fd.c ft_putendl_fd.c ft_putnbr_fd.c ft_strsplit.c ft_lstnew.c\
 	  ft_lstdelone.c ft_lstdel.c ft_lstadd.c ft_lstiter.c ft_lstmap.c ft_lm.c\
 	  ft_nbmot.c ft_intlen.c ft_printtab.c ft_strrev.c ft_swap.c ft_islower.c\
-	  ft_isupper.c
+	  ft_isupper.c get_next_line.c
 
-INC = libft.h
+INC = includes/libft.h
 
 OBJ = $(SRC:.c=.o)
 

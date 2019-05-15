@@ -5,13 +5,13 @@
 /*                                                 +:+:+   +:    +:  +:+:+    */
 /*   By: jdarko <marvin@le-101.fr>                  +:+   +:    +:    +:+     */
 /*                                                 #+#   #+    #+    #+#      */
-/*   Created: 2017/11/22 22:55:03 by jdarko       #+#   ##    ##    #+#       */
-/*   Updated: 2017/11/22 22:55:03 by jdarko      ###    #+. /#+    ###.fr     */
+/*   Created: 2017/12/15 15:52:59 by jdarko       #+#   ##    ##    #+#       */
+/*   Updated: 2017/12/15 15:52:59 by jdarko      ###    #+. /#+    ###.fr     */
 /*                                                         /                  */
 /*                                                        /                   */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "includes/libft.h"
 
 int		ft_strequ(char const *s1, char const *s2)
 {

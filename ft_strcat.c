@@ -5,13 +5,13 @@
 /*                                                 +:+:+   +:    +:  +:+:+    */
 /*   By: jdarko <marvin@le-101.fr>                  +:+   +:    +:    +:+     */
 /*                                                 #+#   #+    #+    #+#      */
-/*   Created: 2017/11/22 22:55:02 by jdarko       #+#   ##    ##    #+#       */
-/*   Updated: 2017/11/22 22:55:02 by jdarko      ###    #+. /#+    ###.fr     */
+/*   Created: 2017/12/15 15:52:58 by jdarko       #+#   ##    ##    #+#       */
+/*   Updated: 2017/12/15 15:52:58 by jdarko      ###    #+. /#+    ###.fr     */
 /*                                                         /                  */
 /*                                                        /                   */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "includes/libft.h"
 
 char	*ft_strcat(char *s1, const char *s2)
 {
